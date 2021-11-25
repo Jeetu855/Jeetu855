@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jitesh
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
