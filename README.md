@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jitesh
-- 👀 I’m interested in 
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Networking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
